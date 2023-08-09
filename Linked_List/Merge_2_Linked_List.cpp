@@ -1,6 +1,4 @@
-#include<bits/stdc++.h>
-using namespace std;
-
+//https://www.codingninjas.com/studio/problems/merge-two-sorted-linked-lists_800332?leftPanelTab=0&campaign=YouTube_Lovebabbar31stJan2021&utm_source=youtube&utm_medium=affiliate&utm_campaign=YouTube_Lovebabbar31stJan2021
 #include <bits/stdc++.h>
 using namespace std;
 /************************************************************
@@ -25,7 +23,7 @@ template <typename T>
             }
         }
     };
-    
+
 Node<int>* solve(Node<int> *first, Node<int> *second) {
     
     // if only one element d present in 1st list
