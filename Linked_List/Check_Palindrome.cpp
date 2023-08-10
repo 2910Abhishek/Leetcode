@@ -1,3 +1,4 @@
+// https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1
 //{ Driver Code Starts
 #include <stdio.h>
 #include <stdlib.h>
@@ -100,4 +101,11 @@ int main()
     }
     return 0;
 }
+// TIME COMPLELXITY = O(n)
+// Space Complexity = O(1)
+
+
+/*  Approach 2 
+    Copy ALl elements of linked list in array and then check palindrome
+*/
 
